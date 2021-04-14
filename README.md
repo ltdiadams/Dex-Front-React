@@ -1,5 +1,7 @@
-Hello World!
+**DEX - Software Design Project**
 
-To start messing around with the client, use `npm start` and then `npm start` to launch the local dev server.
+* This the front end code for *DEX*
 
-open src folder in your IDE of choice and change code around; watch it recompile in real time!
+* To start, use `npm install` and then `npm start` to launch the local dev server.
+
+* In order to have requests functioning, you'll need to have Springboot API server running!
